@@ -1,44 +1,18 @@
-Programming language :- Programming language is a set instruction which is used create a specific task.
-ex : c,cpp , java
-main(){}
+1 . unary operator
+    it will reqired only one operands
+    ex: increment / decrement operator -> a++ , ++a
 
-Scrippting language :- scripting language is a subset programming.
-ex: html , css , javaScript , python 
-single code
+2. binary operator 
+    it will require two operand 
+     ex : addition, subtraction, multiplication, division etc..
 
-
-Statically typed : when you define the variable you required data type .
-
-
-Dynamically types : not required data type 
+3 ternary operator 
+    it will reqired three operands 
 
 
-Client side :   -> browser
-
-javaScript :-
-
-Client side :
-
-use :- to manipulate the dom (document object model) of the web page.
-
-
-There are three ways to define js.
-1. internal js 
-2. inline js 
-3. external js [.js]
-
-
-There are three of keyword.
-1. var --> gobally declared 
-2. let --> locally declared 
-3. const --> locally declared or constant 
-
-
-History :
-Java Script is devloped by brenden eich by 1995. for netscap navigator browser.
-javaScript engine :
-- spidermonkey -> firefox
-- chakra -> internet exporer
-- v8 -> google chrome
-- javaScript core : safari 
-- rhino : java 
+1. Airthmatic  operator : + , - , *  , / , % , ** 
+2. logical operator  : && , || , !
+3. bitwise operator  : &  , | , ^
+4. relational operators :  == , != , > , < , >= , <= 
+5. assignment operator  : = , += , -= , *= , /= , %= , **=
+6. comparison operator  : == , != , <= , >= , === , !==
